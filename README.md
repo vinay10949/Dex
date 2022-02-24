@@ -1,6 +1,7 @@
 # Dex
 
 This is implmentation of Decentralized exchanged of ERC20 Tokens
+Smart contracts written in solidity, Used Truffle framework for testing smart contracts. 
 
 
 #Install 
